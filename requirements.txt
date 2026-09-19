@@ -4,4 +4,5 @@ scikit-learn
 xgboost
 matplotlib
 seaborn
-joblib
+joblib 
+optuna
